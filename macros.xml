@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="AutoFormat">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="AutoformatWithCleanImport">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="Macro.AutoFormat" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
